@@ -1,10 +1,36 @@
 * {
  box-sizing: border-box;
- 
+ font-family: 'MonoLisa';
 }
 
 div {
  background-color: blue;
  margin-bottom: 2rem;
  background-color: lightblue;
+ border: 10px soild #ffcc00;
+ padding-left: 1rem;
 } 
+
+.box1 {
+ background-color: #ffffcc; 
+ border: 10px solid #ffcc00;
+}
+
+p {
+ border: 3px solid red;
+ width: 78%; 
+}
+
+.box2 p {
+ width: 50%
+}
+
+.box2 h1 {
+ padding: 0;
+ margin: 0;
+}
+
+.box2 {
+ border: 10px solid blue;  
+}
+ 
