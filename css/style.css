@@ -1,0 +1,11 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+div {
+  background-color: blue;
+  margin-bottom: 2rem;
+  background-color: lightblue;
+}
+/*# sourceMappingURL=style.css.map */
